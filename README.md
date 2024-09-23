@@ -1,5 +1,5 @@
 # My dot files
 
 ## Plugins
-    Fugitive - Git wrapperorigin https://github.com/Ciborg085/nvim_dots.git
+    Fugitive - Git wrapper
     Undotree - Undotree in the buffer not using git
