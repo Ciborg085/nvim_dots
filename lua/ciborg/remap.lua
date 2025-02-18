@@ -1,2 +1,5 @@
+local map = vim.keymap.set
+
 vim.g.mapleader = " "
-vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
+map("n", "<leader>pv", vim.cmd.Ex)
+map("n", "<leader>=", "ggVG=")
