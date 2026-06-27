@@ -3,5 +3,3 @@ require("ciborg.remap")
 require("ciborg.lazy_init")
 
 ColorMyPencils('tokyonight')
-
-print('hi mark')
